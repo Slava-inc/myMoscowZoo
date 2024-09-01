@@ -3,7 +3,7 @@ from config import TOKEN
 import extensions
 import telebot
 from telebot import types  # для указания типов
-# ссылка на бота: https://t.me/MosZooAnimalQuizBot
+# ссылка на бота: https://t.me/myMoscowZoo_bot:
 
 bot = telebot.TeleBot(TOKEN)
 quiz = extensions.Quiz()
