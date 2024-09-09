@@ -3,7 +3,7 @@
 
 Конфеденциальную информацию необходимо завести в корневой файл config.txt в следующем порядке в формате:
 
-TOKEN = TOKEN
-EMAIL = EMAIL
-EMAIL_PASSWORD = EMAIL_PASSWORD
-CONTACT_EMAIL = CONTACT_EMAIL
+TOKEN = TOKEN<br>
+EMAIL = EMAIL<br>
+EMAIL_PASSWORD = EMAIL_PASSWORD<br>
+CONTACT_EMAIL = CONTACT_EMAIL<br>
